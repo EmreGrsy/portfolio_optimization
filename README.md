@@ -21,7 +21,7 @@ This approach:
 
 ---
 
-## ⚖️ Comparison
+## Comparison
 
 | Feature                 | Risk Parity                     | GMVP                               |
 |------------------------|----------------------------------|------------------------------------|
@@ -33,4 +33,4 @@ This approach:
 
 ---
 
-This project demonstrates both approaches in practice using simulated data.
+This project demonstrates both approaches using simulated data.
